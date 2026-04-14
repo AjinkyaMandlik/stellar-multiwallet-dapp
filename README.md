@@ -9,8 +9,7 @@ This dApp enables users to connect multiple wallets, donate XLM, and view real-t
 
 ## 🌐 Live Demo
 
-👉 https://stellar-crowdfunding-aj.netlify.app/<img width="1364" height="692" alt="Screenshot 2026-04-14 133808" src="https://github.com/user-attachments/assets/e3037d61-ff51-415b-9c45-ba429b3e8c56" />
-
+👉 https://stellar-crowdfunding-aj.netlify.app/
 
 ---
 
@@ -113,8 +112,8 @@ Handles all mandatory cases:
 ### 💰 Donation Interface
 
 <img width="1348" height="766" alt="Screenshot 2026-04-14 134440" src="https://github.com/user-attachments/assets/6cf9ee8d-c366-4ef5-a52d-e3285e1b02ee" />
+<img width="695" height="656" alt="Screenshot 2026-04-14 134549" src="https://github.com/user-attachments/assets/250c3655-4a0a-49ea-a09c-08d030a881fe" />
 
-<img width="1348" height="766" alt="Screenshot 2026-04-14 134440" src="https://github.com/user-attachments/assets/f2f9589c-6394-45e7-a749-dc87a9e9efcc" />
 
 
 
