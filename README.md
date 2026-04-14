@@ -9,7 +9,8 @@ This dApp enables users to connect multiple wallets, donate XLM, and view real-t
 
 ## 🌐 Live Demo
 
-👉 https://your-live-link.netlify.app
+👉 https://stellar-crowdfunding-aj.netlify.app/<img width="1364" height="692" alt="Screenshot 2026-04-14 133808" src="https://github.com/user-attachments/assets/e3037d61-ff51-415b-9c45-ba429b3e8c56" />
+
 
 ---
 
@@ -102,18 +103,20 @@ Handles all mandatory cases:
 ---
 
 ## 📸 Screenshots
+<img width="1364" height="692" alt="Screenshot 2026-04-14 133808" src="https://github.com/user-attachments/assets/db0b0d2c-dc5e-4fc9-9871-b6f408e8f759" />
 
 ### 🔗 Wallet Selection
 
-![Wallet](./screenshots/wallet.png)
+<img width="1364" height="685" alt="Screenshot 2026-04-14 133908" src="https://github.com/user-attachments/assets/b4fe197c-fec0-498f-8cfe-ea33fa5af820" />
+
 
 ### 💰 Donation Interface
 
-![Donate](./screenshots/donate.png)
+<img width="1348" height="766" alt="Screenshot 2026-04-14 134440" src="https://github.com/user-attachments/assets/6cf9ee8d-c366-4ef5-a52d-e3285e1b02ee" />
 
-### 📊 Real-Time Progress
+<img width="1348" height="766" alt="Screenshot 2026-04-14 134440" src="https://github.com/user-attachments/assets/f2f9589c-6394-45e7-a749-dc87a9e9efcc" />
 
-![Progress](./screenshots/progress.png)
+
 
 ---
 
@@ -214,11 +217,6 @@ Open:
 
 **Ajinkya Mandlik**
 
----
-
-## 📄 License
-
-This project is built for educational purposes as part of the Stellar Yellow Belt Program.
 
 ---
 
